@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title></title>
+    <link href="feed.xml" rel="self" />
+    <link href="" />
+    <id>feed.xml</id>
+    <entry>
+        <title type="html"><![CDATA[Hello Nico]]></title>
+        <link href="hello-nico"/>
+        <published>2013-07-09T00:00:00.000Z</published>
+        <updated>2013-07-09T00:00:00.000Z</updated>
+        <id>hello-nico</id>
+        <content type="html" xml:base="" xml:lang="en">
+            <![CDATA[ <p>Here is an exmple post of nico. It supports Markdown:</p>
+<h2 id="list">List</h2><ul>
+<li>item 1</li>
+<li>item 2</li>
+</ul>
+<h2 id="code">Code</h2><div class="highlight"><pre><code class="javascript"><span class="keyword">var</span> foo = <span class="string">'bar'</span></code></pre></div>]]>
+        </content>
+    </entry>
+</feed>
